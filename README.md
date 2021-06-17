@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nattapon Hoedkhuntod.
+- 👋 Hi, I’m Nattapon Hoedkhunthod.
 - 👀 I’m interested in Full Stack Dev.
 - 🌱 I’m currently learning RESTful API
 - 📫 How to reach me https://www.facebook.com/natto0210.99
